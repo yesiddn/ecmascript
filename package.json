@@ -1,0 +1,16 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Historia y versiones de ECMA Script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "version",
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Duvan Yesid <yesidrodriguez305@gmail.com>",
+  "license": "MIT"
+}
