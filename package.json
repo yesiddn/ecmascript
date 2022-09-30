@@ -12,5 +12,6 @@
     "ecmascript"
   ],
   "author": "Duvan Yesid <yesidrodriguez305@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
