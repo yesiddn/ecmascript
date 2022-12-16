@@ -20,3 +20,7 @@ async function arrayOfNames(array) {
 
 const names = arrayOfNames(['Luis', 'Juan', 'Pedro']);
 console.log('After');
+// After
+// Luis
+// Juan
+// Pedro
